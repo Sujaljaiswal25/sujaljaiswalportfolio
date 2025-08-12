@@ -83,7 +83,7 @@ export const projects = [
     name: "MoodyPlayer",
     description:
       "An intelligent music player that detects your mood through facial expressions and plays music.",
-    href: "https://ai-moody-player.vercel.app",
+    href: "https://ai-moody-palyer.vercel.app/",
     image: "/assets/projects/project1.png",
     bgImage: "/assets/projects/project1.png",
     frameworks: [
