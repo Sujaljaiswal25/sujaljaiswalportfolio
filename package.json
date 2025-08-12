@@ -3,6 +3,9 @@
   "private": true,
   "type": "module",
   "version": "0.0.0",
+  "engines": {
+    "node": "20.x"
+  },
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -22,6 +25,7 @@
     "react-responsive": "^10.0.1",
     "react-scroll": "^1.9.3",
     "tailwindcss": "^4.1.7",
+    "lightningcss": "^1.26.0",
     "three": "^0.176.0"
   },
   "devDependencies": {
